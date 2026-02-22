@@ -1,6 +1,8 @@
 > Speech Emotion Recognition using AI
 Description
-This project focuses on building a Speech Emotion Recognition (SER) system using Artificial Intelligence. The goal is to classify human emotions (e.g., happy, sad, angry, neutral) from audio input. The repository contains the code for training and evaluating multiple AI models, including LSTM, SVM, VGGNet, and ResNet. The models were trained on two datasets:
+This project focuses on building a Speech Emotion Recognition (SER) system using Artificial Intelligence. The goal is to classify human emotions (e.g., happy, sad, angry, neutral) from audio input. The repository contains the code for training and evaluating multiple AI models, including LSTM, SVM, VGGNet, and ResNet.
+
+The models were trained on two datasets:
 
 RAVDESS: A publicly available dataset for English speech emotion recognition.
 
